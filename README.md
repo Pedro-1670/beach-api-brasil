@@ -115,4 +115,4 @@ Recomendado: [Railway](https://railway.app) ou [Render](https://render.com)
 
 ---
 
-Feito com 🌊 por [seu nome]
+Feito com 🌊 por Pedro Ryan
